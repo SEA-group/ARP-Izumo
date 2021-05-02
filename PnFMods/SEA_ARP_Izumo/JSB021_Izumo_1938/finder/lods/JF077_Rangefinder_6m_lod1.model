@@ -1,0 +1,7 @@
+<JF077_Rangefinder_6m_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_ARP_Izumo/JSB021_Izumo_1938/finder/lods/JF077_Rangefinder_6m_lod2	</parent>
+	<extent>	4.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_ARP_Izumo/JSB021_Izumo_1938/finder/lods/JF077_Rangefinder_6m_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JF077_Rangefinder_6m_lod1.model>

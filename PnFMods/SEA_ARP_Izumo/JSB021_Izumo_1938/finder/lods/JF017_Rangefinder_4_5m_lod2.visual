@@ -1,0 +1,61 @@
+<JF017_Rangefinder_4_5m_lod2.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+		</transform>
+		<node>
+			<identifier>	Rangefinder_4_5	</identifier>
+			<transform>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+			</transform>
+			<node>
+				<identifier>	Director_Type_95_Mod1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Director_Type_95_Mod1	</node>
+		<geometry>
+			<vertices>	Director_Type_95_Mod1_lodShape2.vertices	</vertices>
+			<primitive>	Director_Type_95_Mod1_lodShape2.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Misc	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Izumo/JSB021_Izumo_1938/finder/JD022_Director_Type_95_Mod1.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Rangefinder_4_5	</node>
+		<geometry>
+			<vertices>	Rangefinder_4_5_lod2Shape.vertices	</vertices>
+			<primitive>	Rangefinder_4_5_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Izumo/JSB021_Izumo_1938/finder/JF017_Rangefinder_4_5m.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.1684 -0.0322 -0.0987	</min>
+		<max>	0.1684 0.1162 0.1051	</max>
+	</boundingBox>
+</JF017_Rangefinder_4_5m_lod2.visual>

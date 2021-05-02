@@ -1,0 +1,7 @@
+<JSB022_Izumo_1942_Stern_lod2.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/SEA_ARP_Izumo/JSB021_Izumo_1938/ship/lods/JSB022_Izumo_1942_Stern_lod3	</parent>
+	<extent>	50.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_ARP_Izumo/JSB021_Izumo_1938/ship/lods/JSB022_Izumo_1942_Stern_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JSB022_Izumo_1942_Stern_lod2.model>

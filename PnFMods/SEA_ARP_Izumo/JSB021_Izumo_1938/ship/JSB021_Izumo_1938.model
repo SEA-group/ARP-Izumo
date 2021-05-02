@@ -1,0 +1,7 @@
+<JSB021_Izumo_1938.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/SEA_ARP_Izumo/JSB021_Izumo_1938/ship/lods/JSB021_Izumo_1938_Full_lod4	</parent>
+	<extent>	400.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_ARP_Izumo/JSB021_Izumo_1938/ship/JSB021_Izumo_1938	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JSB021_Izumo_1938.model>
