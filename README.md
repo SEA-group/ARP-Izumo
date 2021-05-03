@@ -1,7 +1,6 @@
-# ARP_Izumo
-ARP Lzumo
+# ARP Izumo
 
-Skin modification for tier 9 battleship **Lzumo**. 
+Skin modification for tier 9 battleship **Izumo**. 
 
 Presented by SEA group
 
